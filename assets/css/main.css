@@ -1639,7 +1639,7 @@ input, select, textarea {
 
 		/* VIDEO */
 
-		* { box-sizing: border-box; }
+		/* { box-sizing: border-box; }
 		.video-background {
 		  background: #000;
 		  position: fixed;
