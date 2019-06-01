@@ -23,6 +23,6 @@ $to = "business.nestorlopez@gmail.com";
 $headers = "From: $email_from \r\n";
 
 //Sender
-mail (&to,&$email_subject,&$email_body,&$headers);
+mail ($to,$email_subject,$email_body,$headers);
 //Done
 ?>
